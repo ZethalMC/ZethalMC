@@ -12,3 +12,5 @@ I'm ZethalMC, a developer with a passion for crafting projects related to Minecr
 - **Website**: [ZethalMC.com](https://www.zethalmc.com)
 - **GitHub**: [ZethalMC](https://github.com/ZethalMC)
 - **Discord**: `zethal_`
+
+![Zethal_'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZethalMC&theme=merko&show_icons=true&hide_border=true&count_private=true)
